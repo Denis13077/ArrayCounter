@@ -14,3 +14,5 @@ C:\Users\martushev\ArrayCounter\ArrayCounter\ArrayCounter\obj\Debug\net5.0\Array
 C:\Users\martushev\ArrayCounter\ArrayCounter\ArrayCounter\obj\Debug\net5.0\ref\ArrayCounter.dll
 C:\Users\martushev\ArrayCounter\ArrayCounter\ArrayCounter\obj\Debug\net5.0\ArrayCounter.pdb
 C:\Users\martushev\ArrayCounter\ArrayCounter\ArrayCounter\obj\Debug\net5.0\ArrayCounter.genruntimeconfig.cache
+C:\Users\martushev\ArrayCounter\ArrayCounter\ArrayCounter\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\martushev\ArrayCounter\ArrayCounter\ArrayCounter\obj\Debug\net5.0\ArrayCounter.csproj.CopyComplete

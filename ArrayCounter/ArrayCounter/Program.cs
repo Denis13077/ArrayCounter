@@ -11,7 +11,7 @@ namespace ArrayCounter
             Console.WriteLine(SumNumbers(numbers));
         }
 
-        private static string SumNumbers(string[] numbers)
+        public static string SumNumbers(string[] numbers)
         {
             var sum = 0;
             foreach (var num in numbers)

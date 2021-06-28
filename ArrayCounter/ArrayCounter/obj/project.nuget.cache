@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4omSAU0fnsiuWX94VWwaqQilGECPDIH2jgW/4QPEd5RqdHG7wmLHWn+BaZFsplNQH58CR3GsAsdtAY97XmSn1A==",
+  "dgSpecHash": "fFa88yrArspqWVyPGtuvthvgN+yRDdn1TrOxeKkroP7X0wAGgHLJ9SV5tcvfxKA+KXqT0Aft9SyMnKa7+zhI4Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\martushev\\ArrayCounter\\ArrayCounter\\ArrayCounter\\ArrayCounter.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\martushev\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\martushev\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\martushev\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512"
+  ],
   "logs": []
 }
