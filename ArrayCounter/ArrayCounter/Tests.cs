@@ -1,4 +1,4 @@
-﻿/*using NUnit.Framework;
+﻿using NUnit.Framework;
 
 namespace ArrayCounter
 {
@@ -19,7 +19,7 @@ namespace ArrayCounter
         [Test]
         public static void NegativeNumbers()
         {
-            Assert.AreEqual("-6", ArraySum.SumNumbers(new []{"-1", "-2", "-3"}));
+            Assert.AreEqual("6", ArraySum.SumNumbers(new []{"-1", "-2", "-3"}));
         }
     }
-}*/
+}
