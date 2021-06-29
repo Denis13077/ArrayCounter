@@ -10,7 +10,7 @@ namespace ArrayCounter
                 Console.WriteLine(SumNumbers(numbers));
         }
 
-        public static int SumNumbers(string[] numbers)
+        public static string SumNumbers(string[] numbers)
         {
             var sum = 0;
             foreach (var number in numbers)
@@ -21,7 +21,7 @@ namespace ArrayCounter
                 }
             }
 
-            return sum;
+            return sum.ToString();
         }
     }
 }
