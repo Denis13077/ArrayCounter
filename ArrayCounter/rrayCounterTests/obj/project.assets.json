@@ -4641,11 +4641,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\martushev\\ArrayCounter\\ArrayCounter\\TestProject1\\TestProject1.csproj",
-      "projectName": "TestProject1",
-      "projectPath": "C:\\Users\\martushev\\ArrayCounter\\ArrayCounter\\TestProject1\\TestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\martushev\\ArrayCounter\\ArrayCounter\\rrayCounterTests\\ArrayCounterTests.csproj",
+      "projectName": "ArrayCounterTests",
+      "projectPath": "C:\\Users\\martushev\\ArrayCounter\\ArrayCounter\\rrayCounterTests\\ArrayCounterTests.csproj",
       "packagesPath": "C:\\Users\\martushev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\martushev\\ArrayCounter\\ArrayCounter\\TestProject1\\obj\\",
+      "outputPath": "C:\\Users\\martushev\\ArrayCounter\\ArrayCounter\\rrayCounterTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\martushev\\AppData\\Roaming\\NuGet\\NuGet.Config",

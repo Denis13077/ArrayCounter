@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PqEhZejK2O8aJcwlMhQMU+3my3nPmHaoMGPw2QrC75Q3Tw4Y2TogFAS61X4alw+bdQ/ZGsGLeOzcMcJ6vmr/OA==",
+  "dgSpecHash": "QQjOOCOs1i+Hlanl2ZBvMUJ743fArG3tDYyNanrV9Pn0RUZ6qqvc0GfgTZRX8K171O6p2XgRHoE913pZDVeruA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\martushev\\ArrayCounter\\ArrayCounter\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Users\\martushev\\ArrayCounter\\ArrayCounter\\rrayCounterTests\\ArrayCounterTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\martushev\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\martushev\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

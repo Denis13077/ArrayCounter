@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayCounter", "ArrayCounter\ArrayCounter.csproj", "{1BD0C8DE-3ADD-489B-A013-85FAC83A00AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{D3C3BACC-2DD5-4857-A86E-49129A01F5E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayCounterTests", "rrayCounterTests\ArrayCounterTests.csproj", "{D3C3BACC-2DD5-4857-A86E-49129A01F5E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
